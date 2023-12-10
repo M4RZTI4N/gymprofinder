@@ -38,7 +38,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>GymProFinder</title>
+        <title>GymProFinder v2</title>
         <meta name="GymProFinder" content="GymProFinder" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
